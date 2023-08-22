@@ -50,21 +50,20 @@ Construire un programme exo_15.rb qui va demander à l'utilisateur un nombre ent
 
 Salut, bienvenue dans ma super pyramide ! Combien d'étages veux-tu ?
 > 5
-Voici la pyramide :
-> <img width="1035" alt="Capture d’écran 2023-08-22 à 12 09 22" src="https://github.com/AmandineFernandes/Itsa-me-Mario-/assets/129835381/e935205a-2dda-4f17-902b-7f5740b94c9d">
+
+<img width="1035" alt="Capture d’écran 2023-08-22 à 12 09 22" src="https://github.com/AmandineFernandes/Itsa-me-Mario-/assets/129835381/e935205a-2dda-4f17-902b-7f5740b94c9d">
 
 #### La pyramide, dans l'autre sens
 Reprendre le programme exo_15.rb et faire un programme pyramide.rb qui montera au lieu de descendre :
 
 Salut, bienvenue dans ma super pyramide ! Combien d'étages veux-tu ?
 > 5
-Voici la pyramide :
-> <img width="1035" alt="Capture d’écran 2023-08-22 à 12 09 53" src="https://github.com/AmandineFernandes/Itsa-me-Mario-/assets/129835381/78f2602d-3ba4-4d0c-b1e4-a16b064ab993">
+
+<img width="1035" alt="Capture d’écran 2023-08-22 à 12 09 53" src="https://github.com/AmandineFernandes/Itsa-me-Mario-/assets/129835381/78f2602d-3ba4-4d0c-b1e4-a16b064ab993">
 
 #### La pyramide, version expert
 Créer un programme exo_17.rb qui va demander à l'utilisateur un nombre entre 1 et 25 et qui va sortir une pyramide qui monte et qui descend, comme montré ci-dessous :
 
 Salut, bienvenue dans ma super pyramide ! Combien d'étages veux-tu ?
 > 5
-Voici la pyramide :
-> <img width="1039" alt="Capture d’écran 2023-08-22 à 12 10 15" src="https://github.com/AmandineFernandes/Itsa-me-Mario-/assets/129835381/ea46e4a8-d74e-4460-9ee4-002288bcd930">
+<img width="1039" alt="Capture d’écran 2023-08-22 à 12 10 15" src="https://github.com/AmandineFernandes/Itsa-me-Mario-/assets/129835381/ea46e4a8-d74e-4460-9ee4-002288bcd930">
